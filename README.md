@@ -6,5 +6,5 @@ Authors: Paulina Morillo, Cèsar Ferri
 
 e-mail: paumoal@inf.upv.es
 
-[dsds](hola)
+[Notebook in R](CostCurves-R_example.ipynb)
 
