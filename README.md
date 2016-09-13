@@ -1,6 +1,6 @@
 # CostCurves_R_Example
 
-Example of CostCurves Package in R
+Example of [CostCurves Package in R] (https://github.com/paumoal/CostCurves-R_package)
 
 Authors: Paulina Morillo, Cèsar Ferri
 
